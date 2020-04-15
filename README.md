@@ -1,0 +1,1 @@
+See https://www.pythonlikeyoumeanit.com/Module3_IntroducingNumpy/AdvancedIndexing.html for a pedagogical introduction, and https://docs.scipy.org/doc/numpy-1.15.0/reference/arrays.indexing.html for the official docs.
